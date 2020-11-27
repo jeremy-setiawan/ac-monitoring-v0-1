@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ac-monitoring-v0-1/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ac-monitoring-v0-1/static/js/main.d1bfa9e9.chunk.js",
+    "main.js.map": "/ac-monitoring-v0-1/static/js/main.d1bfa9e9.chunk.js.map",
+    "runtime-main.js": "/ac-monitoring-v0-1/static/js/runtime-main.8dbfda15.js",
+    "runtime-main.js.map": "/ac-monitoring-v0-1/static/js/runtime-main.8dbfda15.js.map",
+    "static/css/2.b1946fc3.chunk.css": "/ac-monitoring-v0-1/static/css/2.b1946fc3.chunk.css",
+    "static/js/2.3499688d.chunk.js": "/ac-monitoring-v0-1/static/js/2.3499688d.chunk.js",
+    "static/js/2.3499688d.chunk.js.map": "/ac-monitoring-v0-1/static/js/2.3499688d.chunk.js.map",
+    "static/js/3.a7aa57ab.chunk.js": "/ac-monitoring-v0-1/static/js/3.a7aa57ab.chunk.js",
+    "static/js/3.a7aa57ab.chunk.js.map": "/ac-monitoring-v0-1/static/js/3.a7aa57ab.chunk.js.map",
+    "index.html": "/ac-monitoring-v0-1/index.html",
+    "static/css/2.b1946fc3.chunk.css.map": "/ac-monitoring-v0-1/static/css/2.b1946fc3.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ac-monitoring-v0-1/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3499688d.chunk.js.LICENSE.txt": "/ac-monitoring-v0-1/static/js/2.3499688d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/ac-monitoring-v0-1/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dbfda15.js",
+    "static/css/2.b1946fc3.chunk.css",
+    "static/js/2.3499688d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d1bfa9e9.chunk.js"
+  ]
+}
